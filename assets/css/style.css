@@ -752,10 +752,12 @@ section {
 .contact .info .email p {
   padding-top: 5px;
 }
-.contact .info .social-links {
+
+.contact .social-links {
   padding-left: 60px;
 }
-.contact .info .social-links a {
+
+.contact .social-links a {
   font-size: 18px;
   display: inline-block;
   background: #333;
@@ -769,9 +771,10 @@ section {
   transition: 0.3s;
   margin-right: 10px;
 }
-.contact .info .social-links a:hover {
+.contact .social-links a:hover {
   background: #149ddd;
   color: #fff;
+  text-decoration: none;
 }
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #149ddd;
