@@ -11,6 +11,8 @@
 
 This project contains the code for my personal portfolio page, updated for 2022.
 
+This page uses HTML, CSS, Bootstrap, and Javascript.
+
 ## Usage
 
 non-business use only
@@ -25,6 +27,7 @@ Please contact me via email with additional questions.
 
 ## Copyright and license
 
-Code and documentation: copyright 2022 jenniwritescode. 
-Code released under the  license.
-[![License]()](https://creativecommons.org/licenses/)
+Copyright 2022 jenniwritescode. 
+Code released under the Creative Commons license.
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
